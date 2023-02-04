@@ -23,4 +23,7 @@ Stretch Goals
 2. As a user, I want to feel accomplished at the end of the game by completing all the levels
 3. As a user, I want the game to be timed so I can move with a sense of urgency.
 
+game link: https://taariqelliott.github.io/
+
+
 ![IMG_6114](https://user-images.githubusercontent.com/28550342/216777742-788bc97a-6e77-4d62-bfec-24714a2d534e.png)
